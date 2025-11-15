@@ -31,7 +31,7 @@ In megascript, the datatype representing 'no value' is `nil`, it is falsey.
 
 <h2>String</h2>
 
-Strings are pieces of text which represent one single string value, and are of datatype `string`.
+Strings are pieces of text which represent a series of ASCII characters, and are of datatype `string`.
 They can be enclosed in double quotes `"This is a string"` or single quotes `'This is also a string'`
 
 Strings support the following escape sequences:
